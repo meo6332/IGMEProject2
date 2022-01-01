@@ -1,0 +1,5 @@
+Choose one of these assets to use for your vehicle.
+
+Assets sourced from Kenney's Game Assets found at https://kenney.nl/assets/racing-pack
+
+Asteriods and Ship used for exercise 6 found at https://ansimuz.itch.io/patreons-top-down-collection

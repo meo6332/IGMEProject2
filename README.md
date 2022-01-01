@@ -1,4 +1,4 @@
-# Project PROJECT_NAME
+# Project 2
 
 ### Student Info
 
